@@ -14,13 +14,14 @@ def main():
                 print("You are either too old or too young to be here :(")
                 return
         answer = input(f"Is your age {age}?: ")
+        while answer != 'y' and answer != 'n':
+            answer = input(f"Well? Is {age} your age or not? ")
         if answer == 'y':
             break;
         elif answer == 'n':
             past_ages.append(age)
             print("Rats.")
-        else:
-            answer = input(f"Well? Is {age} your age or not? ")
+                
     print(f"Alas! I have figured it out! \nYour name is {name} and your age is {age}!")
     return
 
