@@ -26,3 +26,11 @@ def main():
     Anyways. I keep forgetting the difference between import and include. C++ and Python consistently are messing with me. But I'll figure it out. I always do. Anyways. Until next time. 
 
 
+9/9/26 Subject: Teamwork again
+    I feel like I need to take charge of this and I really don't want to. Everyone is just waiting for someone else to say something and not contributing to the overall discussion. 
+TBF we are all college students with a lot happening and we probably aren't super used to working in teams like this, but I feel like only a few of us are doing anything. I don't want to have to facilitate every conversation, and I know this would be far easier if I just did everything myself, but that isn't conductive to the environment and learning that I am supposed to be experiencing with this class. 
+But I digress. The requirements need some tuning, we need to be more specific, but I don't want to try to discuss this over text and I have tests to study for. 
+Regardless, I know we need to start working together more, maybe I'll start asking what specific people think to try to get some more invovlement out of every group member. I like being the scribe because I can make sure that things get done on my time, but maybe I should trust the members of my team a bit more. Anyways. Until next time. 
+
+
+
