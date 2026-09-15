@@ -34,3 +34,10 @@ Regardless, I know we need to start working together more, maybe I'll start aski
 
 
 
+
+9/15/26 Subject: Git
+    I wasn't aware that you need to make branches remote and on github, so that is interesting to me. To make a branch on your local computer, you use the command:  git checkout -b <branchName>
+To make a branch on the github server, use: git push --set-upstream origin <branchName>
+We also learned how to merge branches and make/approve pull requests. We need to delete the local branch on the local machine after
+merging in git hub. Use: git branch -d <branchName> to delete on the local machine. also git checkout changes what branch you are currently in. 
+
