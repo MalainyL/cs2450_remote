@@ -33,11 +33,15 @@ But I digress. The requirements need some tuning, we need to be more specific, b
 Regardless, I know we need to start working together more, maybe I'll start asking what specific people think to try to get some more invovlement out of every group member. I like being the scribe because I can make sure that things get done on my time, but maybe I should trust the members of my team a bit more. Anyways. Until next time. 
 
 
-
-
 9/15/26 Subject: Git
     I wasn't aware that you need to make branches remote and on github, so that is interesting to me. To make a branch on your local computer, you use the command:  git checkout -b <branchName>
 To make a branch on the github server, use: git push --set-upstream origin <branchName>
 We also learned how to merge branches and make/approve pull requests. We need to delete the local branch on the local machine after
 merging in git hub. Use: git branch -d <branchName> to delete on the local machine. also git checkout changes what branch you are currently in. 
 
+
+9/22/26 Subject: Presenting
+    I haven't ever really considered color use in a presentation before, but I guess it makes sence that it makes people feel certain things subconsciously. We've started on our presentation, and I think that our teamwork is going better now, like we've broken the seal and its easier to work with people you know a little better. 
+Anyways, three main things to keep in mind when working on a presentation are: design principles, audience, and message. What we want to convey, the audience that we are conveying it to, and the way we want to convey it. I don't think thats too much to keep in mind, although I have written down the very basics, and thats what is important. 
+Keep color in mind, as well as typeface, size, and other special things, like boldness and italics. 
+Can use pictures to convey things as well, in fact, you should use pictures to convey things. A picture is easier than words for a lot of things, but it can also help propel your message. 
