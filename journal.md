@@ -45,3 +45,7 @@ merging in git hub. Use: git branch -d <branchName> to delete on the local machi
 Anyways, three main things to keep in mind when working on a presentation are: design principles, audience, and message. What we want to convey, the audience that we are conveying it to, and the way we want to convey it. I don't think thats too much to keep in mind, although I have written down the very basics, and thats what is important. 
 Keep color in mind, as well as typeface, size, and other special things, like boldness and italics. 
 Can use pictures to convey things as well, in fact, you should use pictures to convey things. A picture is easier than words for a lot of things, but it can also help propel your message. 
+
+9/28 Subject: Project
+    We need to meet as a group and go over our requirements again, as I think that a few of the things that are in the requirements and in the user stories are no longer accurate after we went over what we want in the slides. This is okay, and I know that things change and we've gone over our requirements more, but I also want to rebase now that we've discovered more about what we want to do. 
+This class is more focused on the idea of development and working as a team then syntax, and I think that will be more useful in the long run, but I also need to go back and practice some syntax. As a quick reminder, its import in python and include in c++, c++ has semicolons and needs type definition while python does not. Yeah, short entry I guess. 
