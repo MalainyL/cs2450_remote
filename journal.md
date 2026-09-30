@@ -49,3 +49,12 @@ Can use pictures to convey things as well, in fact, you should use pictures to c
 9/28 Subject: Project
     We need to meet as a group and go over our requirements again, as I think that a few of the things that are in the requirements and in the user stories are no longer accurate after we went over what we want in the slides. This is okay, and I know that things change and we've gone over our requirements more, but I also want to rebase now that we've discovered more about what we want to do. 
 This class is more focused on the idea of development and working as a team then syntax, and I think that will be more useful in the long run, but I also need to go back and practice some syntax. As a quick reminder, its import in python and include in c++, c++ has semicolons and needs type definition while python does not. Yeah, short entry I guess. 
+
+
+9/30 Subject: Presentations
+    I think that we could've coordinated better for our presentation, but I think that we did fine. We talked after we presented and I think that we're all on the same page now, but we were slightly off when we presented. I also want to start coordinating a meeting between all of us but I know that Chris is busy with his capstone and Syd lives in hurricane so having a scrum once a week seems unlikely, unless I can convince everyone to start doing zoom together, which seems like an impossible task. 
+But I digress, we all are on the same page and I am excited to start development next week. I need to continue working on cpp outside of class because I want to get better at it and I'm not going to learn it in any of the classes that I am taking or that I am planning on taking. 
+I have mixed feelings about using excessive AI in this class, I think that it makes the class easier time wise and it makes it much faster, but I prefer to know everything that's going on, I guess thats the control freak in me. 
+I don't think I'm using this journal correctly. I'm going to adjust the way that I use it to be more like a way to document what I'm doing rather than commenting on team dynamics. Anyways. Until next time. 
+
+
