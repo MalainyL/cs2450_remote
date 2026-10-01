@@ -57,4 +57,7 @@ But I digress, we all are on the same page and I am excited to start development
 I have mixed feelings about using excessive AI in this class, I think that it makes the class easier time wise and it makes it much faster, but I prefer to know everything that's going on, I guess thats the control freak in me. 
 I don't think I'm using this journal correctly. I'm going to adjust the way that I use it to be more like a way to document what I'm doing rather than commenting on team dynamics. Anyways. Until next time. 
 
+10/1 Subject: Scrum
+    We talked about project management today, focusing on scrumming and being the scrum master. This is basically just a fancy term to meet up and discuss what has been done and what needs to be done. 
 
+We will change scrum masters once a week, and whoever is the scrum master will send Professor Compas an email on the friday of this week telling him how many things have been completed, how many things are in progess, and how many things there are to still do. We will also give him a small update on what we've been doing and how things are going. 
