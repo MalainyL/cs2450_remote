@@ -1,3 +1,4 @@
+
 8/26/26 Subject: Python 
     I've been having a hard time transitioning back to using python rather than c++. I had to look up the import keyword as I kept thinking that it was include. So heres a quick cheat sheet for me with python.
 
@@ -66,3 +67,5 @@ We will change scrum masters once a week, and whoever is the scrum master will s
     We can use AI to enhance our workflows but we need to control how we use it rather than relying on AI to make all of the decisions. We still own the flow and what happens but the AI can do a lot of the steps. Its like we are the part of the person who makes good requirements and can communicate it, and the AI is the smart person that can implement it. 
 AI can do whatever you tell it to but you need to give it good requirements. Supply a goal, supply a set of features that you want to be implemented. Give the AI the why, what, and the how.
 Treat it like another team member, don't make it do all the work but you can delegate this.  
+
+We used AI to fix the bug where a user can make a blank username and/or password. I used the copilot AI built into github since I am using vim and I don't think it's very helpful to install an AI tool into vim. I looked at what it returned to me and iterated a few times to fix some issues. Then I pushed everything that was changed to the github and called it a day after testing it extensively. It also won't allow spaces. 
