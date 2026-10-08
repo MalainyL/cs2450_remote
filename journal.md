@@ -61,3 +61,8 @@ I don't think I'm using this journal correctly. I'm going to adjust the way that
     We talked about project management today, focusing on scrumming and being the scrum master. This is basically just a fancy term to meet up and discuss what has been done and what needs to be done. 
 
 We will change scrum masters once a week, and whoever is the scrum master will send Professor Compas an email on the friday of this week telling him how many things have been completed, how many things are in progess, and how many things there are to still do. We will also give him a small update on what we've been doing and how things are going. 
+
+10/8 Subject: AI
+    We can use AI to enhance our workflows but we need to control how we use it rather than relying on AI to make all of the decisions. We still own the flow and what happens but the AI can do a lot of the steps. Its like we are the part of the person who makes good requirements and can communicate it, and the AI is the smart person that can implement it. 
+AI can do whatever you tell it to but you need to give it good requirements. Supply a goal, supply a set of features that you want to be implemented. Give the AI the why, what, and the how.
+Treat it like another team member, don't make it do all the work but you can delegate this.  
