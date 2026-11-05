@@ -94,3 +94,10 @@ We need to implement quality, think thoughtfully about the design choices that w
 Keep it simple stupid, fall clearly and early, structure matters, single purpose, easy to test.  
 Don't hide errors, provide useful information to the user, try to avoid nested if statements, avoid poor logic in loops, short and simple functions, clear inputs and outputs, and good function parameters. 
 
+11/5 Subject: Refactoring
+
+I missed the lecture on this, as I was quite sick and couldn't come to class. I read through the assignment and worked on it, and I think that there is a lot to be said about learning someone else's code and making it better.
+If you're refactoring your own code then it's easy to know what you are talking about, but sometimes it isn't so clear to others. 
+I have realized how important properly documenting your code is, and I want to strive to make my code easier to understand by implementing with the best practices. 
+
+I should really start working more on this project, it has kind of been on my backburner. 
