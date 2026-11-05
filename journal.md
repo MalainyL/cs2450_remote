@@ -69,3 +69,28 @@ AI can do whatever you tell it to but you need to give it good requirements. Sup
 Treat it like another team member, don't make it do all the work but you can delegate this.  
 
 We used AI to fix the bug where a user can make a blank username and/or password. I used the copilot AI built into github since I am using vim and I don't think it's very helpful to install an AI tool into vim. I looked at what it returned to me and iterated a few times to fix some issues. Then I pushed everything that was changed to the github and called it a day after testing it extensively. It also won't allow spaces. 
+
+
+10/13 Subject: Risk
+    Companies risk a substansial amount when they develop software, things change quickly in this world and evrything to develop is a big risk. 
+Requirements and talented developer. Good processes help us design things quickly and well. In this course we are learning to work together in a team and how to work through the software development process. Things go from us to git and back, then to the deployment pipeline, ending with the production environment. Then we can still have more progress. 
+Continous integration is when we integrate over and over quickly into the source tree. Don't have floating tasks and branches. We need to keep things into smaller chunks so that things are being granular. Automated tests are also useful to speed up the process. Get rid out of as many bugs as possible while it's still in your testing environment. Solve the problem, send to the source, test quickly. Fail fast. 
+
+Subject: Pair Programming
+    This is when you work together as a team. Two people using the same computer to create code. There's a driver and a navigator, where one person works the computer and the other guides the process and notices issues with the work. There needs to be constant communication. Driver focuses on details and navigator things about the larger picture. Switch roles often. 
+Sometimes it might be seen as not as productive for a company.
+
+10/27 Subject: Software Quality
+    We need to look at the user experience and see what they want from the application or experience. It also includes user security, updates. 
+Qualities of Good Software:
+    Correctness - Does it do what I want it to do?
+    Reliability - Can the user use it like they need to when they need to? Does it do what you expect?
+    Usability - Can the intended audience actually use it? It is easy enought or too hard?
+    Performance - Is it fast enough?
+    Maintainability - Can we change it later, did we make it modular enought and flexible enough to make further integration easier?
+    Security - Is the user / user-data protected?
+
+We need to implement quality, think thoughtfully about the design choices that we make, create simple architecture, have a good foundation (requirements), and following good coding principles. We should plan to fail clearly and early. 
+Keep it simple stupid, fall clearly and early, structure matters, single purpose, easy to test.  
+Don't hide errors, provide useful information to the user, try to avoid nested if statements, avoid poor logic in loops, short and simple functions, clear inputs and outputs, and good function parameters. 
+
