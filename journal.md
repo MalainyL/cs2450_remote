@@ -103,4 +103,7 @@ I have realized how important properly documenting your code is, and I want to s
 I should really start working more on this project, it has kind of been on my backburner. 
 
 11/10 Subject: Deployment
-    
+   The finalish step of the process is deploying the product to customers. There's also you know keeping up with the product, and fixing things that come up but right now we're looking at deployment. We start with testing, then we go through with QA testing, then we stage it in a testing environment, and look at how users may use it. Then, finally, we send it to the production environment, where it goes to the user/customer base. 
+We will switch the staging environment and the production environment depending on which environment works better. This is called blue green deployment. But this is expensive and it's hard to give information to both.
+
+  
