@@ -101,3 +101,6 @@ If you're refactoring your own code then it's easy to know what you are talking 
 I have realized how important properly documenting your code is, and I want to strive to make my code easier to understand by implementing with the best practices. 
 
 I should really start working more on this project, it has kind of been on my backburner. 
+
+11/10 Subject: Deployment
+    
