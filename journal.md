@@ -106,4 +106,12 @@ I should really start working more on this project, it has kind of been on my ba
    The finalish step of the process is deploying the product to customers. There's also you know keeping up with the product, and fixing things that come up but right now we're looking at deployment. We start with testing, then we go through with QA testing, then we stage it in a testing environment, and look at how users may use it. Then, finally, we send it to the production environment, where it goes to the user/customer base. 
 We will switch the staging environment and the production environment depending on which environment works better. This is called blue green deployment. But this is expensive and it's hard to give information to both.
 
-  
+ 11/12 Subject: Security
+    There are many ways that companies have data breaches. 
+For some servers the problem is social engineering, where people are tricked into giving up sensitive information. Most hacks are not techincal, they are social. Phishing, comprized confidentials and supply chain compromise. 
+There are also some more techical hacks, but those are not the majority. One way is CSS, where hackers use old websites to install things into your computer. 
+This costs us and the companies that we work for a lot of money, it's expensive to get hacked.  
+How do we prevent this?
+    There are buisnesses that you pay to hack you, and then they will find the vulnerabilities in the system. Some of them are more honest then others, but with all of these organizations you will pay the companies a ransom. 
+
+
